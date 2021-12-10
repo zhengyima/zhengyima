@@ -1,4 +1,4 @@
-# 👋🏻 Hi, ZYMA here.
+# 👋🏻 Hi, ZYMa here.
 
 <!-- * 🎓 Computer Science Master Candidate at [🏫 RUC](https://www.ruc.edu.cn/) -->
 <!-- - 🔭 Currently Working on Information Retrieval and Natural Language Processing -->
