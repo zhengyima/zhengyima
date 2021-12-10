@@ -1,7 +1,7 @@
 # 👋🏻 Hi, Zhengyi here.
 
-* 🎓 Computer Science Master Candidate at [🏫 RUC](https://www.ruc.edu.cn/)
-- 🔭 Currently Working on Information Retrieval and Natural Language Processing
+<!-- * 🎓 Computer Science Master Candidate at [🏫 RUC](https://www.ruc.edu.cn/) -->
+<!-- - 🔭 Currently Working on Information Retrieval and Natural Language Processing -->
 
 <img src="https://github-readme-stats-one-bice.vercel.app/api?username=zhengyima&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER" alt="zhengyima's GitHub stats" height="185px" /> <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=zhengyima&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER" alt="Top Langs" height="185px" />
 
