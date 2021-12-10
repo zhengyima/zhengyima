@@ -1,4 +1,7 @@
-### Hi there 👋
+### 👋🏻 Hi, Zhengyi here.
+
+* 🎓 Computer Science Master Candidate at [🏫 RUC](https://www.ruc.edu.cn/)
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhengyima)](https://github.com/anuraghazra/github-readme-stats)
 
